@@ -1,0 +1,12 @@
+# JUCE / Projucer generated output
+Builds/
+JuceLibraryCode/
+
+# Compiled plugins
+*.vst3
+*.component
+*.aaxplugin
+
+# IDE
+.vs/
+*.user
