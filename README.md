@@ -40,13 +40,7 @@ These were built against JUCE 7 on Windows with Visual Studio 2022.
 
 ## History
 
-Each plugin started in its own repo. Those repos are archived and keep the original commit history:
-[SimpleEQ](https://github.com/laceyp99/SimpleEQ),
-[SimpleCompression](https://github.com/laceyp99/SimpleCompression),
-[ParallelCompression](https://github.com/laceyp99/ParallelCompression),
-[AIChorusPhaser](https://github.com/laceyp99/AIChorusPhaser),
-[AutoPanner](https://github.com/laceyp99/AutoPanner),
-[EQChain2](https://github.com/laceyp99/EQChain2).
+Each plugin started in its own repo in 2023. Those repos were merged here in November 2026 and then deleted, so the per-plugin commit history is not preserved.
 
 ## License
 
